@@ -6,13 +6,14 @@
 
 header {
     padding: 16px 0;
-    background-color: #056bbe;
+    background-color: #034072;
     color: #fff;
 }
 
 header,
 header h1,
-section h2 {
+section h2
+section h3 {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
 }
@@ -61,7 +62,7 @@ section {
 
 section h2 {
     margin-bottom: 16px;
-    color: #056bbe;   
+    color: #034072;   
 }
 
 section p {
@@ -69,7 +70,7 @@ section p {
 }
 
 section {
-    color: #056bbe;
+    color: #034072;
 }
 
 section h3 {
@@ -90,7 +91,7 @@ section h3 {
 }
 
 footer {
-    background-color: #056bbe;
+    background-color: #034072;
     color: #fff;
     padding: 16px 0;
 }
