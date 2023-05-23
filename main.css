@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 16px 0;
+    background-color: #056bbe;
+    color: #fff;
+}
+
+header,
+header h1,
+section h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+}
+
+section p {
+    font-weight: normal;
+}
+
+section img {
+    height: 480px;
+    margin-right: 18px;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 16px;
+    color: #fff;
+    font-size: 18px;
+}
+
+header nav li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container,
+section .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+}
+
+section h2 {
+    margin-bottom: 16px;
+    color: #056bbe;   
+}
+
+section p {
+    margin-bottom: 8px;
+}
+
+section {
+    color: #056bbe;
+}
+
+section h3 {
+    margin-bottom: 16px;
+}
+
+.game-images img {
+    height: 220px;
+}
+
+.game-images li {
+    display: inline;
+    margin-right: 8px;
+}
+
+.games-images ul {
+    display: center;
+}
+
+footer {
+    background-color: #056bbe;
+    color: #fff;
+    padding: 16px 0;
+}
